@@ -12,5 +12,10 @@ const  Home = () => {
                 containerStyles="bg="
             />
         </div>
+
+        <div>
+
+            
+        </div>
     )
 }
